@@ -2,7 +2,7 @@
 #EXT-X-TARGETDURATION:4
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-PLAYLIST-TYPE:VOD
-#EXT-X-KEY:METHOD=AES-128,URI="https://server1.vdoplay.ml/hls/lLax4eY/file_360.mp4/encryption.key"
+#EXT-X-KEY:METHOD=AES-128,URI="https://raw.githubusercontent.com/WOWMAXTV/live/main/gameof/ss1/ep1/index.m3u8"
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:12.971289,
